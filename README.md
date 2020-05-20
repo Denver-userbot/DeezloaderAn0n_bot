@@ -1,7 +1,7 @@
 # DeezloaderAn0n_bot
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)template=https://github.com/indianbhaiya/IndianBot)
 
 
 This project has been created for integrate deezloader library in a Telegram bot.
