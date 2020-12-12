@@ -1,4 +1,4 @@
 telepot
-acrcloud
+python-acrcloud
 dwytsongs
 deezloader
