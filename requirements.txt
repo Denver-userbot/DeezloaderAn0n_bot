@@ -1,4 +1,7 @@
-telepot
+python-telegram-bot
 python-acrcloud
 dwytsongs
 deezloader
+
+
+
