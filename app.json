@@ -7,7 +7,7 @@
       "music",
       "good"
     ],
-    "repository": "https://github.com/c311at/DeezloaderAn0n_bot",
+    "repository": "https://github.com/Denver-userbot/DeezloaderAn0n_bot",
     "env": {
       "WEBHOOK": {
         "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,6 +24,7 @@
       "CLIENT_ID": {
         "description": "spotify client ID",
         "value": ""
+         "required": false
       },
       "CLIENT_SECRET": {
         "description": "spotify client scret key",
