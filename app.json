@@ -24,7 +24,7 @@
       "CLIENT_ID": {
         "description": "spotify client ID",
         "value": ""
-         "required": false
+         
       },
       "CLIENT_SECRET": {
         "description": "spotify client scret key",
